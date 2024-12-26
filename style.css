@@ -1,0 +1,17 @@
+body{
+    background: #24353f;
+}
+
+.bg-color{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+.color-logo{
+    color: #17a2b8;
+}
+
+.bg-nav{
+    background: hsl(202, 27%, 19%);
+    box-shadow: 0 0 54px 0 rgba(0, 0, 0, 1);
+}
+
